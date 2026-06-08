@@ -290,7 +290,7 @@ Tables:
 ## Technology Stack Summary
 
 | Layer | Technology |
-|-------|-----------|
+|-------|----------|
 | Frontend | React, Redux, Tailwind CSS |
 | Backend | Node.js, Express.js, TypeScript |
 | Database | PostgreSQL, Redis, Elasticsearch |
